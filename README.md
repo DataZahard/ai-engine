@@ -62,4 +62,6 @@ This project implements a **Decoupled AI Service Architecture**. By separating t
 * **Module 2 (B2B Proposal):**Logic involves a weighted scoring algorithm to match client budget with high-margin sustainable stock.
 * **Module 3 (Impact Reporting):**Uses mathematical constants (e.g., CO2 saved per kg of bamboo) to generate human-readable impact statements.
 
+## 📹 Demo Video
 
+* **Google drive link:**https://drive.google.com/file/d/1TJIbU7wykt5p92fk5h9Prg1ws9xNg_Mh/view?usp=drivesdk
